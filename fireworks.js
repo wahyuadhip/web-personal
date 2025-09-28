@@ -6,7 +6,7 @@ const colors = [
 	"#ff4c4c",
 	"#ffcc00"
 ];
-const letters = "HAPPY NEW YEAR";
+const letters = "I LOVE YOUUU";
 let letterIndex = 0;
 
 function getRandomLetter() {
@@ -107,4 +107,5 @@ window.onload = function () {
 	const centerX = window.innerWidth / 2;
 	const centerY = window.innerHeight / 2;
 	createFirework(centerX, centerY);
+
 };
